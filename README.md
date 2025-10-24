@@ -1,6 +1,6 @@
 # Population III Stellar Evolution with MESA
 
-This repository contains stellar evolution models of **Population III (zero-metallicity)** stars computed using the [MESA](https://mesa.sourceforge.net) code.  
+This repository contains stellar evolution models of **Population III (zero-metallicity)** stars computed using the MESA code.  
 The project explores the **internal structure, convection dynamics, and nucleosynthesis** of massive primordial stars over a wide mass range.
 
 ---
