@@ -51,7 +51,7 @@ Key focuses include:
 
 **Samuel Muthu**  
 Keele University → King’s College London (MSc Theoretical Physics 2025)  
-Email: _samuel.muthu@keele.ac.uk_  
+Email: _samuelmuthu2003@gmail.com_  
 Supervisor: Dr Raphael Hirschi  
 
 ---
