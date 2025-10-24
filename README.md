@@ -7,11 +7,10 @@ The project explores the **internal structure, convection dynamics, and nucleosy
 
 ## Overview
 
-- **Mass range:** 10 – 500 M⊙  
-- **Networks used:** `mesa_128` and `approx21`  
+- **Mass range:** 10 – 25 M⊙  
+- **Nuclear Networks used:** `mesa_128.net` and `approx21.net`  
 - **Convection criterion:** Ledoux (except test runs with Schwarzschild)  
-- **Mixing-length schemes:** MLT and MLTP for comparison in models with M > 25 M⊙  
-- **Convective boundary mixing (CBM) values:** 3.4 – 5.0, with selected models exploring oCBM, 1CBM, 2CBM, and 5CBM  
+- **Convective boundary mixing (CBM) values:** 3.4 – 5.0, with selected models.  
 - **Mass loss:** Included in all runs  
 
 The models investigate how convection, CBM strength, and mixing-length treatment affect the late-stage evolution and pre-supernova structure of metal-free stars.
