@@ -50,7 +50,7 @@ Key focuses include:
 ## Author
 
 **Samuel Muthu**  
-Keele University → King’s College London (MSc Theoretical Physics 2025)  
+Keele University 
 Email: _samuelmuthu2003@gmail.com_  
 Supervisor: Dr Raphael Hirschi  
 
