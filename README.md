@@ -50,7 +50,6 @@ Key focuses include:
 ## Author
 
 **Samuel Muthu**  
-Keele University 
 Email: _samuelmuthu2003@gmail.com_  
 Supervisor: Dr Raphael Hirschi  
 
